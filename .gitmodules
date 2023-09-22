@@ -1,0 +1,3 @@
+[submodule "petsc"]
+	path = petsc
+	url = https://github.com/petsc/petsc.git
